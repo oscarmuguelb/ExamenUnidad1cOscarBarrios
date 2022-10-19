@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Examen Unidad 1</string>
+    <string name="dato1">Dato 1</string>
+    <string name="dato2">Dato 2</string>
+    <string name="instruc">Elige la opcion</string>
+    <string name="todo">TODO</string>
+    <string name="enviar">Enviar</string>
+    <string name="eliE">Elige el equipo</string>
+    <string-array name="opcion">
+        <item>Saludo</item>
+        <item>Partido</item>
+    </string-array>
+    <string-array name="equipos">
+        <item>Chivas</item>
+        <item>America</item>
+        <item>Cruz azul</item>
+        <item>Pumas</item>
+    </string-array>
+</resources>
